@@ -1,5 +1,5 @@
 # Projeto 2: Jogo da Forca em Python - Versão 1
-Este é um projeto o jogo da forca desenvolvido em Python. O jogo oferece 5 categorias para escolher e jogar, incluindo frutas, países, nomes de pessoas, animais e planetas.
+Este é um projeto do jogo da forca desenvolvido em Python. O jogo oferece 5 categorias para escolher e jogar, incluindo frutas, países, nomes de pessoas, animais e planetas.
 
 ## Funcionalidades
 
