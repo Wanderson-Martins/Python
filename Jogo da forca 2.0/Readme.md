@@ -9,7 +9,7 @@ Este é um projeto do jogo da forca desenvolvido em Python, uma evolução do Jo
 
 ## Tecnologias Utilizadas
 
-• linguagem de programação: Python
+• linguagem de programação: Python                                  
 • Tecnica de programação Orientada a Objeto(POO)
 
 ## Como jogar
